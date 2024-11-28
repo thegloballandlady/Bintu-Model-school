@@ -19,7 +19,7 @@ In this project, I designed a comprehensive visual dashboard to analyze and inte
 Data Cleaning and Transformation: Excel
 Data Visualization: Power BI
 Analysis Techniques: Statistical methods, trend analysis, and correlation studies.
----
+
 
 #### This dashboard empowers stakeholders to make data-driven decisions, optimize learning environments, and better allocate resources for student support.
 
@@ -30,11 +30,21 @@ Analysis Techniques: Statistical methods, trend analysis, and correlation studie
 
 
 
+![s5](https://github.com/user-attachments/assets/d18d9121-b659-45d3-ab7b-865d2f3ace76)
 
 
 
 
+![s4](https://github.com/user-attachments/assets/35b3053d-49fc-4a1c-9f64-7c4230694a44)
 
 
 
+![s3](https://github.com/user-attachments/assets/5dd70579-eb5f-4768-9357-9760da4f195b)
 
+
+![s2](https://github.com/user-attachments/assets/e8da7b30-514d-4ab0-9d86-e5d122c27396)
+
+![s1](https://github.com/user-attachments/assets/76319039-ca74-4882-b941-cd62b90556b0)
+
+
+##### Thanks for viewing 🏆
